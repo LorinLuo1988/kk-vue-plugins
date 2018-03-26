@@ -1,7 +1,7 @@
 {
-  "name": "vue-plugins",
+  "name": "kk-vue-plugins",
   "version": "1.0.0",
-  "description": "vue plugins",
+  "description": "kk vue plugins",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
